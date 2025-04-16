@@ -11,7 +11,7 @@ page = st.sidebar.selectbox("Go to", ["Home", "About Me", "Projects", "Contact"]
 if page == "Home":
     st.title("Welcome to My Portfolio")
     st.write("""
-    Hi, I am Lebogang Letsoalo🌟  
+    Hi, I am Lebogang 🌟  
     **Data Scientist | Aspiring AI and ML Engineer**  
 
     Welcome to my portfolio! Use the navigation menu on the left to explore more about me, my projects, and how to get in touch.
